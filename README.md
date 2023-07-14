@@ -2,6 +2,7 @@
 
 Welcome to my profile! Here's some quick things about me:
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/They
 - 💖 Favourite Language: C#
-- 🏫 Current Education: Pembina Trails Early College (PTEC) / Manitoba Insituite of Trades and Technology (MITT)
+- 🏫 Education: Pembina Trails Early College (PTEC) / Manitoba Insituite of Trades and Technology (MITT)
+- 💼 Work: Bit Space Development
